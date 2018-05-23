@@ -12,5 +12,8 @@ ClipRect enables us to select the region and then perform `DIFFERENCE` , `UNION`
 
 In order to get the cuts, we need to provide 2 circular regions at both end and then apply `DIFFERENCE`.
 
+### Future steps
+ - Add shadow 
+
 ### Reference
  - https://developer.android.com/reference/android/graphics/Canvas
