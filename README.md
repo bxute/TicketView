@@ -1,10 +1,11 @@
 # Ticket View
 
-The application showcase custom Ticket View.
+The application contains a custom view for ticket.
 
 
 #### Screenshot:
 <img src="https://github.com/bxute/TicketView/blob/master/qr.png" width="400px" height="800px">
+
 
 ### How cuts are made ?
 ClipRect enables us to select the region and then perform `DIFFERENCE` , `UNION` , `INTERSECT` etc. with the canvas.
